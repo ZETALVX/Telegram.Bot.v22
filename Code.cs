@@ -44,10 +44,10 @@ namespace BotTestTelegram
             HttpClient httpClient = new(
                 new SocketsHttpHandler { Proxy = proxy, UseProxy = true }
             );
-            var botClient = new TelegramBotClient("7814059210:AAGeY2S5pRKflXpiFkrNr58dVYBRSDAu4M8", httpClient);*/
+            var botClient = new TelegramBotClient("TOKEN", httpClient);*/
 
             // Bot Token without Tor Proxy
-            var botClient = new TelegramBotClient("7814059210:AAGeY2S5pRKflXpiFkrNr58dVYBRSDAu4M8");
+            var botClient = new TelegramBotClient("TOKEN");
 
             // Cancellation token
             using var cts = new CancellationTokenSource();

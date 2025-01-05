@@ -1,7 +1,7 @@
 # Telegram.Bot.v22
 A small tutorial to create a Telegram BOT with C# (v.22)
 
-Video tutorial on my channel: [https://www.youtube.com/watch?v=EJIur-6RqPY](https://www.youtube.com/@zetalvx)
+Video tutorial on my channel: https://youtu.be/L1nCIz8Q6LM
 
 I used Visual Studio 2022. 
 I used the "Telegram.Bot" and "HttpToSocks5Proxy" library. 

@@ -11,4 +11,4 @@ The version used of HttpToSocks5Proxy is 1.4.2.
 You can install both by going to: project, NuGet packets. Search and install both and use the latest version available.
 
 
-For more info, consult the official link: https://github.com/TelegramBots/Teleg... and the Wiki: https://telegrambots.github.io/book/
+For more info, consult the official Wiki: https://telegrambots.github.io/book/

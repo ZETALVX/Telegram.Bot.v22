@@ -273,7 +273,7 @@ namespace BotTestTelegram
                     parseMode: ParseMode.Html);
             }
 
-            // Send an animation (GIF)
+            // Send an animation (GIF) 
             if (messageText == "gif")
             {
                 await botClient.SendAnimation(
